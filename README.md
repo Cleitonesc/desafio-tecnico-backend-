@@ -2,7 +2,7 @@
 API REST - SALVANDO,DELETANDO E CONSULTANDO DADOS DE UM ARQUIVO JSON.
 
 
-
+````
 // JSON ESPARADO PARA DELETAR (como não sei se era permitido passar um id fiz a lógica deletando e pela data )
 {
    "day":"26-01-2018",
